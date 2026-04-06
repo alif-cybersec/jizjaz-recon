@@ -30,7 +30,6 @@ Berikan izin eksekusi:
 chmod +x jizjaz-recon.sh
 
 Jalankan tool terhadap target:
-Bash
 
 ./jizjaz-recon.sh <target-ip-atau-domain>
 
